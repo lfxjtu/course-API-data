@@ -1,4 +1,4 @@
-package springbootstarter.topic;
+package io.lfxjtu.courseAPIdata.topic;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

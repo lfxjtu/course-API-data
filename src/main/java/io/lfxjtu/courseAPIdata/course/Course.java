@@ -1,8 +1,8 @@
-package springbootstarter.course;
+package io.lfxjtu.courseAPIdata.course;
 
 import lombok.Getter;
 import lombok.Setter;
-import springbootstarter.topic.Topic;
+import io.lfxjtu.courseAPIdata.topic.Topic;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

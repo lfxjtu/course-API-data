@@ -1,8 +1,8 @@
-package springbootstarter.course;
+package io.lfxjtu.courseAPIdata.course;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-import springbootstarter.topic.Topic;
+import io.lfxjtu.courseAPIdata.topic.Topic;
 
 import java.util.List;
 

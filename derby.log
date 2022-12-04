@@ -1,8 +1,8 @@
 ----------------------------------------------------------------
-Sun Dec 04 20:00:24 NZDT 2022:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0184-dbef-9a29-00000208dbb8 
-on database directory memory:/Users/lfxjtu/Projects/course-API-data/testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@251a69d7 
-Loaded from file:/Users/lfxjtu/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+Sun Dec 04 20:47:36 NZDT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0184-dc1a-d2fb-00000139c470 
+on database directory memory:/Users/lfxjtu/Projects/course-API-data/testdb with class loader org.springframework.boot.loader.LaunchedURLClassLoader@4d405ef7 
+Loaded from jar:file:/Users/lfxjtu/Projects/course-API-data/target/course-API-data-0.0.1-SNAPSHOT.jar!/BOOT-INF/lib/derby-10.14.2.0.jar!/
 java.vendor=Eclipse Adoptium
 java.runtime.version=17.0.5+8
 user.dir=/Users/lfxjtu/Projects/course-API-data

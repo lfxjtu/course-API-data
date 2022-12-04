@@ -1,4 +1,4 @@
-package springbootstarter.course;
+package io.lfxjtu.courseAPIdata.course;
 
 import org.springframework.data.repository.CrudRepository;
 

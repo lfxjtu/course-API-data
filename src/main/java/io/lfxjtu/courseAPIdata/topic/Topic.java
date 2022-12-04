@@ -1,4 +1,4 @@
-package springbootstarter.topic;
+package io.lfxjtu.courseAPIdata.topic;
 
 import lombok.Getter;
 import lombok.Setter;

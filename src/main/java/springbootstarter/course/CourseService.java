@@ -19,7 +19,7 @@ public class CourseService {
 
     public Course getCourse(String id) {
         Optional<Course> course = courseRepository.findById(id);
-        return course.orElse(null);
+        return course.orElseThrow();
     }
 
     public void addCourse(Course course) {
